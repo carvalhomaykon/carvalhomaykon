@@ -4,7 +4,7 @@
 
 ## Seja bem-vindo
 * Apaixonado por tecnologia e programação 💻;
-* Graduando de Sistema de Informação na Universidade Federal Rural da Amazônia 🎓;
+* Graduando de Sistemas de Informação na Universidade Federal Rural da Amazônia 🎓;
 * Atualmente estou estagiando como suporte de TI na Renova Solar Engenharia 🚀;
 
 ## Meus Contatos:
