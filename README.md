@@ -6,8 +6,8 @@
 * Desenvolvedor BackEnd (Python | Java | Angular | React | C#) 🚀;
 
 ## Meus Contatos:
-[![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carvalhomaykon566@gmail.com)
-[![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BH7f%2BA3u5StOXvNytGxNV1Q%3D%3D)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maykon-carvalho-329853208/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carvalhomaykon566@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maykon.car027/#)
 
 ## Tecnologias que eu uso
