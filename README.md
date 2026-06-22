@@ -42,3 +42,6 @@
     <img aling="center" alt="docker" src="https://img.icons8.com/color/48/000000/docker.png">
     <img aling="center" alt="postman" src="https://img.icons8.com/dusk/48/000000/postman-api.png">
 </div> <br>
+
+![Maykon GitHub stats](https://github-readme-stats.vercel.app/api?username=carvalhomaykon&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhomaykon&layout=compact&cache_seconds=1)
